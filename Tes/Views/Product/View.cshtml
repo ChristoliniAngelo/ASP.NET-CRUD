@@ -1,0 +1,9 @@
+﻿@model Tes.Models.Product
+
+<div class="container mt-5">
+    <h1>Product Details</h1>
+    <p><strong>ID:</strong> @Model.Id</p>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Price:</strong> @Model.Price.ToString("C")</p>
+    <a href="/Product" class="btn btn-secondary">Back</a>
+</div>
