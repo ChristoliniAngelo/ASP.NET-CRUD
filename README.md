@@ -1,4 +1,4 @@
-# Tes Blazor Project
+# CRUD Project
 
 This is a Blazor project named "Tes" built with .NET 8 and C# 12.0. The project includes various features and pages to demonstrate the capabilities of Blazor.
 
