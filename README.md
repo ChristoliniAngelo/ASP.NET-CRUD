@@ -25,7 +25,7 @@ This is a Blazor project named "Tes" built with .NET 8 and C# 12.0. The project 
 ### Running the Project
 
 1. Clone the repository:
-    git clone https://github.com/your-repo/tes-blazor-project.git
+   <> git clone https://github.com/your-repo/tes-blazor-project.git <>
 
 2. Navigate to the project directory:
     cd tes-blazor-project
